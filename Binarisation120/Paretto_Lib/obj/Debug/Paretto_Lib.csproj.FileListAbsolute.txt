@@ -1,0 +1,7 @@
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\bin\Debug\Paretto_Lib.dll
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\bin\Debug\Paretto_Lib.pdb
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\bin\Debug\MRO_Lib.dll
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\bin\Debug\MRO_Lib.pdb
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\obj\Debug\Paretto_Lib.dll
+D:\учеба\программирование\Projects\Binarisation120\Paretto_Lib\obj\Debug\Paretto_Lib.pdb

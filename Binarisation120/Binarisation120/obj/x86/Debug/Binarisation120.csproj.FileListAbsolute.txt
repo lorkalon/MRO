@@ -1,0 +1,12 @@
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\bin\Debug\Binarisation120.exe
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\bin\Debug\Binarisation120.pdb
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\Binarisation120.Properties.Resources.resources
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\Binarisation120.exe
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\Binarisation120.pdb
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\Binarization120.Binarization120Form.resources
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\bin\Debug\MRO_Lib.dll
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\bin\Debug\MRO_Lib.pdb
+D:\учеба\программирование\Projects\Binarisation120\Binarisation120\obj\x86\Debug\Binarisation120.MaskForm.resources
